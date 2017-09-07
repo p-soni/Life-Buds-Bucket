@@ -1,0 +1,7 @@
+#Mon Feb 06 22:51:11 EST 2017
+base.0=C\:\\Users\\Charu\\Documents\\GitHub\\android-mini-app-s17-slowking\\LifeBudsBucketList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_613d2b6ccad313b4af00bd893253c3d27857ec20
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Charu\\Documents\\GitHub\\android-mini-app-s17-slowking\\LifeBudsBucketList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b4249e9d1c761b79137b0acb51bc0c887ee1f2d9\\classes.dex
+base.1=C\:\\Users\\Charu\\Documents\\GitHub\\android-mini-app-s17-slowking\\LifeBudsBucketList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b4249e9d1c761b79137b0acb51bc0c887ee1f2d9
+file.0=C\:\\Users\\Charu\\Documents\\GitHub\\android-mini-app-s17-slowking\\LifeBudsBucketList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_613d2b6ccad313b4af00bd893253c3d27857ec20\\classes.dex
